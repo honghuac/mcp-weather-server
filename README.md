@@ -1,6 +1,6 @@
 ## MCP Server Demo (based on a Weather Reporting service)
 
-[![Alt text for the image](https://cdn-icons-png.freepik.com/512/10736/10736355.png)]
+![Alt text for the image](https://cdn-icons-png.freepik.com/512/10736/10736355.png)
 
 ### Do you need an MCP Server Demo to explain the concept of Model Context Protocol? This should do the trick.
 
