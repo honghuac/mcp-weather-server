@@ -1,6 +1,8 @@
 ## MCP Server Demo (based on a Weather Reporting service)
 
-Let's use the **MCP Inspector** to test this MCP server with a simple **Weather Server** use case.
+### Do you need an MCP Server Demo to explain the concept of Model Context Protocol? This should do the trick.
+
+Once you have forked this Git repo, let's use the **MCP Inspector** to test this MCP server with a simple **Weather Server** use case.
 
 A future version of this demo involves real weather data, meanwhile we validate the server using a web-based debugging tool for MCP servers, called the MCP Inspector.
 
