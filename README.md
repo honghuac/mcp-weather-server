@@ -2,7 +2,9 @@
 
 ![Alt text for the image](https://cdn-icons-png.freepik.com/512/10736/10736355.png)
 
-### Do you need an MCP Server Demo to explain the concept of Model Context Protocol? This should do the trick.
+### Do you need
+### a simple MCP Server Demo to explain the concept of Model Context Protocol? 
+### Then, this should do the trick.
 
 Once you have forked this Git repo, let's use the **MCP Inspector** to test this MCP server with a simple **Weather Server** use case.
 
