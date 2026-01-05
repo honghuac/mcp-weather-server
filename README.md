@@ -40,6 +40,6 @@ The weather in Singapre is cloudy
 
 ---
 
-## Troubleshooting
+## Troubleshooting Tip
 
-- **Connection errors:** Make sure you opened the Inspector using the link with the pre-filled session token.
+- Should **Connection errors:** occur -- reopen the Inspector using the link with the pre-filled session token and it should be resolved.
